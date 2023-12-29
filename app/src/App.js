@@ -1,8 +1,8 @@
 function App() {
   return (
     <div>
-      <h1 className="text-rose-950 text-center text-5xl">
-        Swift Asset Manager (Sam)
+      <h1 className="text-sky-300 text-center text-5xl">
+        This is Stella's Branch
       </h1>
     </div>
   );
